@@ -69,6 +69,7 @@ body {
 
 .texto {
   margin-bottom: 12px;                /* Espaço abaixo do texto antes do próximo elemento */
+  text-align: center;                 /* Alinhamento do texto */
 }
 
 .imagem {
